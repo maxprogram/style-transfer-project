@@ -1,0 +1,6 @@
+[submodule "Neural-Style-Transfer"]
+	path = Neural-Style-Transfer
+	url = https://github.com/titu1994/Neural-Style-Transfer.git
+[submodule "ebsynth"]
+	path = ebsynth
+	url = https://github.com/jamriska/ebsynth.git

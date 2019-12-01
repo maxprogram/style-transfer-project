@@ -1,0 +1,16 @@
+archive
+inputs
+output
+/pics
+
+.DS_Store
+
+# Compiled
+*.bin
+*.pyc
+*.bak
+
+.slate*
+.sandbox*
+.test*
+*.pem
